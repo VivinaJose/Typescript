@@ -1,0 +1,22 @@
+body{
+    text-align:left;
+}
+
+#homepage{
+    display: block;
+}
+#registration{
+    display: none;
+}
+#exuser{
+    display: none;
+}
+#optionDiv{
+    display: none;
+}
+#aCourse{
+    display: none;
+}
+#EnCourse{
+    display: none;
+}
